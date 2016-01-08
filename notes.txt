@@ -1,0 +1,5 @@
+Android devel notes:
+
+robosalmon:
+- putting android studio in ~/software. Run with
+> ~/software/android-studio/bin/studio.sh
