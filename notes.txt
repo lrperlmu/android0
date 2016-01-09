@@ -3,3 +3,7 @@ Android devel notes:
 robosalmon:
 - putting android studio in ~/software. Run with
 > ~/software/android-studio/bin/studio.sh
+
+
+- until reboot, might have to
+> export JAVA_HOME=/usr/lib/jvm/java-7-oracle
